@@ -15,7 +15,6 @@
 """Example code demonstrating the Python Hanabi interface."""
 
 from __future__ import print_function
-sdfsfghdfg
 import numpy as np
 from hanabi_learning_environment import pyhanabi
 
